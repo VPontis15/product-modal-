@@ -669,6 +669,10 @@ video {
   gap: 1.25rem;
 }
 
+.gap-8 {
+  gap: 2rem;
+}
+
 .rounded-2xl {
   border-radius: 1rem;
 }
@@ -888,5 +892,9 @@ video {
 
   .md\:items-start {
     align-items: flex-start;
+  }
+
+  .md\:gap-5 {
+    gap: 1.25rem;
   }
 }
